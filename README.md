@@ -4,7 +4,7 @@
 
 <h3>Instruções para utilizar a apllicação</h3>
 <h4>Configuração do Ambiente de Desenvolvimento</h4>
-    <p> -Instalar o Wmapserver ou xampp com o php7</p>
+    <p> -Instalar o Wmapserver ou xampp com o php7, e o git</p>
 <h4>Configurar o Banco de Dados</h4>
     <p>-Criar um banco de dados com o nome: deposito no formato (utf8_unicode_ci);</p>
     <p>-As tabelas serão criadas de forma automática pelo framework laravel.</p>
