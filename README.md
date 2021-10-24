@@ -11,7 +11,9 @@
 <h4>Clonar o projeto para a máquina local</h4>
     <p>-Copie o link do repositório via https;</p>
     <p>-Navegue até a pasta do servidor wampserver no Disco Local C/wamp64/www, se instalou o xampp va no Disco Local C/xamp/htdocs, 
-        em seguida clique com o botão direito e abra o git bash Here;</p>
+        em seguida clique com o botão direito e abra o git bash Here e digite o comando: git clone e cole o link do repositório com as teclas "Shift+insert" e depois
+        aperte a tecla enter;
+    </p>
     <p>Após a realização dos passos anteriores, o projeto estará pronto para ser executado.</p>
 <h4>Executar e Navegar nas Páginas</h4>
     <p>-Após clonar o projeto para pasta do servidor local, abra o diretório da pasta do servidor local
