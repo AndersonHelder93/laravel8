@@ -10,7 +10,7 @@
     <p>-As tabelas serão criadas de forma automática pelo framework laravel.</p>
 <h4>Clonar o projeto para a máquina local</h4>
     <p>-Copie o link do repositório via https;</p>
-    <p>-Navegue até a pasta do servidor wampserver no Disco Local C/wamp64/www, se instalou o xampp va no Disco Local C C/xamp/htdocs, 
+    <p>-Navegue até a pasta do servidor wampserver no Disco Local C/wamp64/www, se instalou o xampp va no Disco Local C/xamp/htdocs, 
         em seguida clique com o botão direito e abra o git bash Here;</p>
     <p>Após a realização dos passos anteriores, o projeto estará pronto para ser executado.</p>
 <h4>Executar e Navegar nas Páginas</h4>
