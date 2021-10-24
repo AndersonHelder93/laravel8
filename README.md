@@ -16,7 +16,7 @@
     </p>
     <p>Após a realização dos passos anteriores, o projeto estará pronto para ser executado.</p>
 <h4>Executar e Navegar nas Páginas</h4>
-    <p>-Após clonar o projeto para pasta do servidor local, abra o diretório da pasta do servidor local
+    <p>-Após clonar o projeto para pasta do servidor local, abra o diretório da pasta do servidor local, onde está o projeto clonado,
          pelo terminal ou propont de comando (cmd) e digite o comando ``php artisan serve``</p>
     <p>-Abra o navegador de sua preferência e digite o caminho: localhost:8000, feito isso a aplicação está pronta 
         para ser usada</p>
